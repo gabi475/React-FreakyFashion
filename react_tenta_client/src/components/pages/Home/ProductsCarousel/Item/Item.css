@@ -1,0 +1,14 @@
+.carousel-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.carousel-item img {
+  height: 200px;
+}
+
+.carousel-item-info {
+  text-align: left;
+}

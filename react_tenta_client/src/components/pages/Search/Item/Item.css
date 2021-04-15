@@ -1,0 +1,15 @@
+.search-item {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  padding: 10px;
+}
+
+.search-item img {
+  height: 200px;
+}
+
+.search-item-info {
+  text-align: left;
+  margin-left: 20px;
+}

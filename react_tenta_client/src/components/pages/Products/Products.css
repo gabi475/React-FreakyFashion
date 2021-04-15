@@ -1,0 +1,13 @@
+.ProductContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.ProductInfo {
+  padding: 20px;
+}
+
+.ProductContainer img {
+  width: 400px;
+}

@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  react-tenta-client-local:
+    image: react_tenta_client
+    ports:
+      - "5050:8080"

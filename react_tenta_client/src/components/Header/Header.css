@@ -1,0 +1,13 @@
+.Header {
+  background: silver;
+  text-align: center;
+  padding: 10px;
+}
+
+.Header-Logo {
+  width: 200px;
+}
+
+.Header-Buttons {
+  padding: 10px;
+}

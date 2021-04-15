@@ -1,0 +1,12 @@
+.Footer {
+  background: silver;
+  text-align: center;
+  padding: 10px;
+}
+
+.Footer-Stuff {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
